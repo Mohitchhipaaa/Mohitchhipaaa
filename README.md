@@ -42,15 +42,7 @@ flowchart TD
   <!-- Others --> <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" /> </a> <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white" /> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white" /> </a> </div>
 
 ---
-<div align="center">
-  <!-- GitHub Stats (Updated URL) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushsuthar07&show_icons=true&theme=radical" height="160" />
-  <!-- GitHub Streak (Updated URL) -->
-  <img src="https://streak-stats.demolab.com/?user=piyushsuthar07&theme=radical" height="160" />
-  <br>
-  <!-- Profile Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyushsuthar07&theme=monokai" height="200" />
-</div>
+
 
 
 ---
@@ -58,9 +50,10 @@ flowchart TD
 ## 📡 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/piyush-suthar07/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sutharpiyush033@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/Mohitchhipaaa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mohitchhipaaa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </div>
+
 
 ---
 
@@ -75,5 +68,5 @@ flowchart TD
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJyclF1b2RuMGRyY3MzYTFxeHc0YWNvb3VlbwktOdmlmc3Cobz7d4g/giphy.gif" height="100" alt="Confetti animation">
   <br>
-  <sub><i>Modern Analyst + DataScience by Piyush Suthar</i></sub>
+  <sub><i>Modern Analyst + DataScience by Mohit</i></sub>
 </div>
