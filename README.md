@@ -25,7 +25,6 @@ flowchart TD
 ```
 
 
-
 - *Data Science Mindset*: I love turning raw, messy data into insights using Python, Pandas, NumPy, and ML models.
 - *ML Explorer*: Always experimenting with algorithms — classification, clustering, forecasting — and learning how to improve real-world predictions.
 - *Analytical Thinking*: I break down complex problems into simple, logical, and workable solutions.
