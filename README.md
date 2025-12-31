@@ -41,19 +41,7 @@ flowchart TD
   <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" /> </a> <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" /> </a> <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" /> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" /> </a> <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.shields.io/badge/tensorflow-FF6F00?logo=tensorflow&logoColor=white" /> </a> 
   <!-- Others --> <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" /> </a> <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white" /> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white" /> </a> </div>
 
----
-<div align="center">
-  <!-- GitHub Stats (Updated URL) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushsuthar07&show_icons=true&theme=radical" height="160" />
-  <!-- GitHub Streak (Updated URL) -->
-  <img src="https://streak-stats.demolab.com/?user=piyushsuthar07&theme=radical" height="160" />
-  <br>
-  <!-- Profile Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyushsuthar07&theme=monokai" height="200" />
-</div>
 
-
----
 
 ## 📡 Connect With Me
 
